@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pichau\\Desktop\\CSharp\\Projeto\\Alura C#\\Alura C#.csproj": {}
+    "c:\\Users\\Pichau\\Desktop\\CSharp\\Projeto\\Alura C#\\Alura C#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pichau\\Desktop\\CSharp\\Projeto\\Alura C#\\Alura C#.csproj": {
+    "c:\\Users\\Pichau\\Desktop\\CSharp\\Projeto\\Alura C#\\Alura C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pichau\\Desktop\\CSharp\\Projeto\\Alura C#\\Alura C#.csproj",
+        "projectUniqueName": "c:\\Users\\Pichau\\Desktop\\CSharp\\Projeto\\Alura C#\\Alura C#.csproj",
         "projectName": "Alura C#",
-        "projectPath": "C:\\Users\\Pichau\\Desktop\\CSharp\\Projeto\\Alura C#\\Alura C#.csproj",
+        "projectPath": "c:\\Users\\Pichau\\Desktop\\CSharp\\Projeto\\Alura C#\\Alura C#.csproj",
         "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pichau\\Desktop\\CSharp\\Projeto\\Alura C#\\obj\\",
+        "outputPath": "c:\\Users\\Pichau\\Desktop\\CSharp\\Projeto\\Alura C#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config",
