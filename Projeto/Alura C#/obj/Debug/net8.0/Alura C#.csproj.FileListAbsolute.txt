@@ -1,0 +1,14 @@
+C:\Users\Pichau\Desktop\Projeto\Alura C#\bin\Debug\net8.0\Alura C#.exe
+C:\Users\Pichau\Desktop\Projeto\Alura C#\bin\Debug\net8.0\Alura C#.deps.json
+C:\Users\Pichau\Desktop\Projeto\Alura C#\bin\Debug\net8.0\Alura C#.runtimeconfig.json
+C:\Users\Pichau\Desktop\Projeto\Alura C#\bin\Debug\net8.0\Alura C#.dll
+C:\Users\Pichau\Desktop\Projeto\Alura C#\bin\Debug\net8.0\Alura C#.pdb
+C:\Users\Pichau\Desktop\Projeto\Alura C#\obj\Debug\net8.0\Alura C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Projeto\Alura C#\obj\Debug\net8.0\Alura C#.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Projeto\Alura C#\obj\Debug\net8.0\Alura C#.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Projeto\Alura C#\obj\Debug\net8.0\Alura C#.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Projeto\Alura C#\obj\Debug\net8.0\Alura C#.dll
+C:\Users\Pichau\Desktop\Projeto\Alura C#\obj\Debug\net8.0\refint\Alura C#.dll
+C:\Users\Pichau\Desktop\Projeto\Alura C#\obj\Debug\net8.0\Alura C#.pdb
+C:\Users\Pichau\Desktop\Projeto\Alura C#\obj\Debug\net8.0\Alura C#.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Projeto\Alura C#\obj\Debug\net8.0\ref\Alura C#.dll
